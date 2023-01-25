@@ -9,5 +9,5 @@ spec:
   targetNamespace: default
   sourceRef:
     kind: GitRepository
-    name: podinfo
+    name: flux-system
   path: ./components
