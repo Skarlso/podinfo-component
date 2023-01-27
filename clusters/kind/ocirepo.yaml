@@ -2,7 +2,7 @@ apiVersion: source.toolkit.fluxcd.io/v1beta2
 kind: OCIRepository
 metadata:
   name: podinfo
-  namespace: ocm-system
+  namespace: flux-system
 spec:
   interval: 1m0s
   url: oci://registry.ocm-system.svc.cluster.local:5000/sha-15978287420042033189
