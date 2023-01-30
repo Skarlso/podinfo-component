@@ -5,7 +5,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
-  url: oci://registry.ocm-system.svc.cluster.local:5000/sha-15978287420042033189
+  url: oci://registry.ocm-system.svc.cluster.local:5000/sha-14966149718733526029
   insecure: true
   ref:
     tag: latest
