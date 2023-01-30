@@ -8,4 +8,4 @@ spec:
   url: oci://registry.ocm-system.svc.cluster.local:5000/sha-15978287420042033189
   insecure: true
   ref:
-    tag: "27472"
+    tag: latest
