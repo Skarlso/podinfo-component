@@ -12,4 +12,3 @@ spec:
     name: deployment
   snapshotTemplate:
     name: podinfo-deployment
-    tag: latest
